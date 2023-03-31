@@ -10,12 +10,12 @@ To install a plugin, place the plugin's Python file and folder with the plugin's
 
 The plugin consists of a Python file and a folder with the name of the plugin. The files are structured as follows:
 
-plugins
-└── First Plugin
-└── FirstPlugin.py
-templates
-├── index.html
-└── outfit_saved.html
+	plugins
+	└── First Plugin
+	└── FirstPlugin.py
+	templates
+	├── index.html
+	└── outfit_saved.html
 
 ## Example 1: Additional Code for Existing Pages
 
